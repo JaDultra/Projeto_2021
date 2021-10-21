@@ -359,8 +359,8 @@ ul.staff li img {
 *{ margin: 0; padding: 0; }
 .slider {
     display: block;
-    height: 293px;
-    width: 600px;
+    height: 200px;
+    width: 800px;
     margin: auto;
     margin-top: 20px;
     position: relative;
@@ -383,14 +383,14 @@ ul.staff li img {
 }
 
 .slider label {
-    background-color: #fff;
-    bottom: 10px;
+    background-color: #060120;
+    bottom: 15px;
     cursor: pointer;
     display: block;
-    height: 10px;
+    height: 15px;
     position: absolute;
-    width: 10px;
-    z-index: 10;
+    width: 15px;
+    z-index: 15;
 }
 
 .slider li:nth-child(1) label {
